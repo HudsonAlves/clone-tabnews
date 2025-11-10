@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Home() {
-    return <h1>Te amo, se você me ama, da uma risadinha</h1>
+    return <h5>Mariana Te amo! Se você me ama, da uma risadinha!!</h5>
 }
 
 export default Home;
